@@ -5,7 +5,7 @@ let win;
 
 const createWindow = () => {
   win = new BrowserWindow({
-    width: 800,
+    width: 320,
     height: 600,
     titleBarStyle: "hidden",
     alwaysOnTop: true,
